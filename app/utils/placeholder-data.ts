@@ -14,8 +14,8 @@ const goodsList = [
     id: 1,
     name: 'Трепанг на меду',
     description: '',
-    list: [],
     wbUrl: 'https://www.wildberries.ru/catalog/250511457/detail.aspx',
+    ozonUrl: 'https://www.ozon.ru/context/detail/id/222073067/',
     price: 7399,
     discount: 63, // в процентах
     slug: '',
