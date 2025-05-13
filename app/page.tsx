@@ -1,6 +1,6 @@
-import Hero from './components/Hero';
-import CardsList from './components/CardsList';
-import Divider from './components/Divider';
+import Hero from '@/app/components/Hero';
+import CardsList from '@/app/components/CardsList';
+import Divider from '@/app/components/Divider';
 
 export default function Home() {
   return (

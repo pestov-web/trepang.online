@@ -2,7 +2,7 @@ import Link from 'next/link';
 import Logo from './Logo';
 import NavMenu from './NavMenu';
 import { Icon } from '@iconify/react';
-import { Button } from '@headlessui/react';
+import { Button } from '@/app/ui/button';
 
 function Header() {
   return (
